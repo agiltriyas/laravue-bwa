@@ -26,7 +26,7 @@
           <div class="col-lg-3 text-right col-md-3">
             <ul class="nav-right">
               <li class="cart-icon">
-                Keranjang Belanja &nbsp;
+                Keranjang Belanja Apaa? &nbsp;
                 <a href="#">
                   <i class="icon_bag_alt"></i>
                   <span
